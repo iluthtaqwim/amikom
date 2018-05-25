@@ -1,0 +1,2 @@
+# amikom
+latihan pakai github
